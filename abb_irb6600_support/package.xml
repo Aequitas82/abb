@@ -38,4 +38,8 @@
   <run_depend>joint_state_publisher</run_depend>
   <run_depend>robot_state_publisher</run_depend>
   <run_depend>rviz</run_depend>
+
+  <export>
+    <deprecated> All files related to the irb6640 will be removed in Jade, use the abb_irb6640_support package going forward. </deprecated>
+  </export>
 </package>
