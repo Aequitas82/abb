@@ -10,11 +10,12 @@
       for ABB IRB 6640 manipulators. This currently includes the base model.
     </p>
     <p>
-    Joint limits and max joint velocities are based on the information in the
-    <a href="http://www.abbrobots.co.uk/en/3HAC028284-en.pdf">ABB IRB 6640 technical data sheet</a>
-    (Version: 3HAC 028284-001 Rev. N). All URDFs / XACROs are based on the default
-    motion and joint velocity limits, unless noted otherwise (ie: no support for
-    high speed joints, extended / limited motion ranges or other options).
+      Joint limits and max joint velocities are based on the information in the
+      <a href="http://www.abbrobots.co.uk/en/3HAC028284-en.pdf">ABB IRB 6640
+      technical data sheet</a> (Version: 3HAC 028284-001 Rev. N). All URDFs /
+      XACROs are based on the default motion and joint velocity limits, unless
+      noted otherwise (ie: no support for high speed joints, extended / limited
+      motion ranges or other options).
     </p>
     <p>
       Before using any of the configuration files and / or meshes included
@@ -23,7 +24,7 @@
     </p>
   </description>
   <author email="ds____on@swri.org">Dan Solomon (Southwest Research Institute)</author>
-  <maintainer email="sedwards@swri.org">Shaun Edwards (Southwest Research Institute)</maintainer>
+  <maintainer email="levi.armstrong@swri.org">Levi Armstrong (Southwest Research Institute)</maintainer>
   <license>Apache2</license>
 
   <url type="website">http://ros.org/wiki/abb_irb6640_support</url>
