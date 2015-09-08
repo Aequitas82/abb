@@ -12,7 +12,7 @@
     </p>
     <p>
       Joint limits and max joint velocities are based on the information in the
-      <a href="http://www.abbrobots.co.uk/en/3HAC028284-en.pdfgit s">ABB IRB 6640
+      <a href="http://www.abbrobots.co.uk/en/3HAC028284-en.pdf">ABB IRB 6640
       technical data sheet</a> (Version: 3HAC 028284-001 Rev. N). All urdfs /
       xacros are based on the default motion and joint velocity limits, unless
       noted otherwise (ie: no support for high speed joints, extended / limited
